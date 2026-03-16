@@ -158,7 +158,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
     const certsHtml = `
       <div>
-        <h3 class="certs-awards__col-title">${esc(t('portfolio.certsTitle', lang))}</h3>
+        <h3 class="certs-awards__col-title">${t('portfolio.certsTitle', lang)}</h3>
         <ul class="cert-list" role="list">
           ${CONTENT.portfolio.certs.map(cert => `
             <li class="cert-item">
@@ -174,7 +174,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
     const awardsHtml = `
       <div>
-        <h3 class="certs-awards__col-title">${esc(t('portfolio.awardsTitle', lang))}</h3>
+        <h3 class="certs-awards__col-title">${t('portfolio.awardsTitle', lang)}</h3>
         ${CONTENT.portfolio.awards.map(award => `
           <div class="award-card" style="margin-bottom:1rem;">
             <div class="award-card__icon" aria-hidden="true">${award.icon}</div>

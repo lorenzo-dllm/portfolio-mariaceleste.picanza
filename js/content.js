@@ -13,8 +13,8 @@ const CONTENT = {
       en: 'Professional portfolio of Mariaceleste Picanza — Jurist specialising in Food Law, Environmental Law and International Trade.'
     },
     pageTitle: {
-      it: 'Mariaceleste Picanza — Giurista & Legal Researcher',
-      en: 'Mariaceleste Picanza — Jurist & Legal Researcher'
+      it: 'Mariaceleste Picanza — Giurista e Legal Researcher',
+      en: 'Mariaceleste Picanza — Jurist and Legal Researcher'
     }
   },
 
@@ -110,7 +110,7 @@ const CONTENT = {
       },
       {
         area: { it: 'Politiche Settoriali',       en: 'Sectoral Policies' },
-        name: { it: 'Politiche Agricole e di Mercato', en: 'Agricultural & Market Policy' },
+        name: { it: 'Politiche Agricole e di Mercato', en: 'Agricultural and Market Policy' },
         desc: { it: 'PAC europea, strumenti di regolazione del mercato agricolo, sicurezza alimentare globale.', en: 'EU Common Agricultural Policy, agricultural market regulation tools, and global food security governance.' }
       },
       {
@@ -120,27 +120,27 @@ const CONTENT = {
       },
       {
         area: { it: 'Diritto Penale',             en: 'Criminal Law' },
-        name: { it: 'Diritto Penale & Scienze Penitenziarie', en: 'Criminal Law & Penology' },
+        name: { it: 'Diritto Penale e Scienze Penitenziarie', en: 'Criminal Law and Penology' },
         desc: { it: 'Esecuzione penale, diritti dei detenuti, prospettive criminologiche e riforma penitenziaria.', en: 'Criminal enforcement, detainee rights, criminological perspectives and penitentiary reform.' }
       },
       {
-        area: { it: 'Tecnologia e Diritto',       en: 'Tech & Law' },
-        name: { it: 'Intelligenza Artificiale e Diritto', en: 'AI & Law' },
+        area: { it: 'Tecnologia e Diritto',       en: 'Tech and Law' },
+        name: { it: 'Intelligenza Artificiale e Diritto', en: 'AI and Law' },
         desc: { it: 'Profili giuridici dell\u2019IA, responsabilit\u00e0 algoritmica, etica dell\u2019innovazione tecnologica.', en: 'Legal dimensions of AI, algorithmic accountability, ethics of technological innovation.' }
       },
       {
         area: { it: 'Metodologia Giuridica',      en: 'Legal Methodology' },
-        name: { it: 'Legal Research & Analisi Normativa', en: 'Legal Research & Regulatory Analysis' },
+        name: { it: 'Legal Research e Analisi Normativa', en: 'Legal Research and Regulatory Analysis' },
         desc: { it: 'Ricerca giuridica avanzata, rassegne normative, analisi comparata di fonti nazionali ed europee.', en: 'Advanced legal research, regulatory reviews, and comparative analysis of national and EU legal sources.' }
       },
       {
         area: { it: 'Diritto Internazionale',     en: 'International Law' },
-        name: { it: 'Sicurezza Alimentare & Ambiente', en: 'Food Security & Environment' },
+        name: { it: 'Sicurezza Alimentare e Ambiente', en: 'Food Security and Environment' },
         desc: { it: 'Intersezione tra diritto alimentare internazionale, sostenibilit\u00e0 ambientale e obiettivi SDG.', en: 'Intersection of international food law, environmental sustainability and UN Sustainable Development Goals.' }
       },
       {
         area: { it: 'Relazioni Internazionali',   en: 'International Relations' },
-        name: { it: 'Made in Italy & Diplomazia Economica', en: 'Made in Italy & Economic Diplomacy' },
+        name: { it: 'Made in Italy e Diplomazia Economica', en: 'Made in Italy and Economic Diplomacy' },
         desc: { it: 'Valorizzazione del patrimonio agro-alimentare italiano, leadership internazionale e diplomazia economica.', en: 'Promotion of Italian agri-food heritage, international leadership and economic diplomacy.' }
       }
     ],
@@ -156,7 +156,7 @@ const CONTENT = {
       { it: 'Sintesi Normativa',           en: 'Regulatory Synthesis' },
       { it: 'Approccio Interdisciplinare', en: 'Interdisciplinary Approach' },
       { it: 'Curiosit\u00e0 Intellettuale', en: 'Intellectual Curiosity' },
-      { it: 'Autonomia & Proattivit\u00e0', en: 'Autonomy & Proactivity' }
+      { it: 'Autonomia e Proattivit\u00e0', en: 'Autonomy and Proactivity' }
     ]
   },
 
@@ -185,7 +185,7 @@ const CONTENT = {
       },
       {
         period:      { it: 'Ago 2025', en: 'Aug 2025' },
-        title:       { it: 'Master Executive \u2014 Leadership per le Relazioni Internazionali e il Made in Italy', en: 'Executive Master \u2014 Leadership for International Relations & Made in Italy' },
+        title:       { it: 'Master Executive \u2014 Leadership per le Relazioni Internazionali e il Made in Italy', en: 'Executive Master \u2014 Leadership for International Relations and Made in Italy' },
         institution: 'Fondazione Italia USA, Roma',
         badge:       { it: 'Borsa di Studio', en: 'Scholarship' },
         details:     {
@@ -197,7 +197,7 @@ const CONTENT = {
         period:      'Ott 2019 \u2014 Apr 2025',
         title:       { it: 'Laurea Magistrale in Giurisprudenza', en: "Master's Degree in Law (LLM / Laurea Magistrale)" },
         institution: 'Universit\u00e0 LUMSA, Roma',
-        badge:       '110/110 cum laude',
+        badge:       '110/110 cum',
         details:     {
           it: 'Tesi in Diritto Ambientale (A.A. 2023/2024): analisi giuridica dell\u2019impiego di sostanze potenzialmente inquinanti nell\u2019attivit\u00e0 agricola, con approfondimento del quadro normativo europeo e internazionale in materia di glifosato.',
           en: 'Thesis in Environmental Law (Academic Year 2023/2024): legal analysis of the use of potentially polluting substances in agricultural practice, with an in-depth examination of the European and international regulatory framework on glyphosate.'
@@ -218,7 +218,7 @@ const CONTENT = {
   /* ── Portfolio ── */
   portfolio: {
     label:      { it: 'Portfolio',              en: 'Portfolio' },
-    title:      { it: 'Pubblicazioni & Ricerche', en: 'Publications & Research' },
+    title:      { it: 'Pubblicazioni e Ricerche', en: 'Publications and Research' },
     cards: [
       {
         type:  { it: 'Tesi Magistrale',  en: "Master's Thesis" },
@@ -234,7 +234,7 @@ const CONTENT = {
       }
     ],
 
-    certsTitle:  { it: 'Licenze & Certificazioni', en: 'Licences & Certifications' },
+    certsTitle:  { it: 'Licenze e Certificazioni', en: 'Licences and Certifications' },
     certs: [
       {
         name:   { it: 'Principi Fondamentali della Costituzione, Valori e Meccanismi della Repubblica', en: 'Fundamental Constitutional Principles, Values and Mechanisms of the Republic' },
@@ -254,7 +254,7 @@ const CONTENT = {
       }
     ],
 
-    awardsTitle: { it: 'Riconoscimenti & Premi', en: 'Awards & Honours' },
+    awardsTitle: { it: 'Riconoscimenti e Premi', en: 'Awards and Honours' },
     awards: [
       {
         icon:   '\u2605',
@@ -263,7 +263,7 @@ const CONTENT = {
         desc:   { it: 'Riconoscimento nazionale assegnato annualmente a mille giovani laureati italiani distintisi per l\u2019eccellenza del percorso accademico e il potenziale di leadership in ambito internazionale.', en: 'National award granted annually to one thousand young Italian graduates who have distinguished themselves through exemplary academic achievement and leadership potential in an international context.' }
       },
       {
-        icon:   '\U0001F393',
+        icon:   '\u{1F393}',
         title:  { it: 'Borsa di Studio per Merito Accademico', en: 'Merit-Based Academic Scholarship' },
         issuer: { it: 'Fondazione Italia USA \u00b7 Ago 2025', en: 'Fondazione Italia USA \u00b7 Aug 2025' },
         desc:   { it: 'Borsa assegnata per l\u2019accesso al Master Executive in Leadership per le Relazioni Internazionali e il Made in Italy, in virt\u00f9 del percorso accademico eccellente.', en: 'Scholarship awarded for admission to the Executive Master in Leadership for International Relations and Italian Excellence, granted on the basis of outstanding academic record.' }
@@ -297,7 +297,7 @@ const CONTENT = {
       en: 'Third-Person Bio (for CV \u00b7 Brochures \u00b7 Websites)'
     },
     bioThird: {
-      it: 'Mariaceleste Picanza \u00e8 una giurista molisana, laureata con lode in Giurisprudenza presso l\u2019Universit\u00e0 LUMSA con una tesi in diritto ambientale sul caso del glifosato. Attualmente frequenta il LL.M. in Food Law alla Luiss Guido Carli e il Corso di Formazione Forense LUMSA per l\u2019accesso alla professione legale. Vincitrice del Premio America Giovani 2025 della Fondazione Italia USA, si specializza in diritto alimentare, ambientale e regolamentazione internazionale.',
+      it: 'Mariaceleste Picanza \u00e8 una giurista molisana, laureata in Giurisprudenza presso l\u2019Universit\u00e0 LUMSA con una tesi in diritto ambientale sul caso del glifosato. Attualmente frequenta il LL.M. in Food Law alla Luiss Guido Carli e il Corso di Formazione Forense LUMSA per l\u2019accesso alla professione legale. Vincitrice del Premio America Giovani 2025 della Fondazione Italia USA, si specializza in diritto alimentare, ambientale e regolamentazione internazionale.',
       en: 'Mariaceleste Picanza is a Roman jurist who graduated magna cum laude in Law from LUMSA University with a thesis in environmental law focused on the glyphosate case. She is currently completing an LL.M. in Food Law at LUISS Guido Carli and bar admission training at LUMSA. A recipient of the Premio America Giovani 2025 awarded by Fondazione Italia USA, she specialises in food law, environmental regulation and international trade.'
     }
   },
