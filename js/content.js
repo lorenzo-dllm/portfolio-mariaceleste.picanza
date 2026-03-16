@@ -297,7 +297,7 @@ const CONTENT = {
       en: 'Third-Person Bio (for CV \u00b7 Brochures \u00b7 Websites)'
     },
     bioThird: {
-      it: 'Mariaceleste Picanza \u00e8 una giurista romana, laureata con lode in Giurisprudenza presso l\u2019Universit\u00e0 LUMSA con una tesi in diritto ambientale sul caso del glifosato. Attualmente frequenta il LL.M. in Food Law alla Luiss Guido Carli e il Corso di Formazione Forense LUMSA per l\u2019accesso alla professione legale. Vincitrice del Premio America Giovani 2025 della Fondazione Italia USA, si specializza in diritto alimentare, ambientale e regolamentazione internazionale.',
+      it: 'Mariaceleste Picanza \u00e8 una giurista molisana, laureata con lode in Giurisprudenza presso l\u2019Universit\u00e0 LUMSA con una tesi in diritto ambientale sul caso del glifosato. Attualmente frequenta il LL.M. in Food Law alla Luiss Guido Carli e il Corso di Formazione Forense LUMSA per l\u2019accesso alla professione legale. Vincitrice del Premio America Giovani 2025 della Fondazione Italia USA, si specializza in diritto alimentare, ambientale e regolamentazione internazionale.',
       en: 'Mariaceleste Picanza is a Roman jurist who graduated magna cum laude in Law from LUMSA University with a thesis in environmental law focused on the glyphosate case. She is currently completing an LL.M. in Food Law at LUISS Guido Carli and bar admission training at LUMSA. A recipient of the Premio America Giovani 2025 awarded by Fondazione Italia USA, she specialises in food law, environmental regulation and international trade.'
     }
   },
